@@ -83,6 +83,7 @@ nav.navbar.navbar-expand-lg {
   font-size: 15px;
   text-align: center;
   text-transform: uppercase;
+  font-family: 'Kanit', sans-serif;
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link {
